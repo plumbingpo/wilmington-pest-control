@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wilmingtonpestcontrolco.com/sitemap.xml
